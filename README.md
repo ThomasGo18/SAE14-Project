@@ -13,4 +13,4 @@ Le site internet est sur le thème du Badminton avec 3 pages de détails pour en
 
 ## Github page 
 
-Le lien du site accessible via Github Page : 
+Le lien du site accessible via Github Page : https://thomasgo18.github.io/SAE14-Project/
