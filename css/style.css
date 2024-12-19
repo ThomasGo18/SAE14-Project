@@ -151,7 +151,7 @@ body {
   }
   
   button:hover {
-    cursor: pointer;
+    cursor: url('../image/raquette.png'), auto; /* Ajout du curseur personnalisé ici */;
     color: #fcfcfc;
   }
   
