@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: 'poppins', sans-serif;
   }
+body {
+  cursor: url('image/volant.png'), auto;
+}
   :root {
     --primary-color: #44a0eb; 
     --secondary-color: #ffffff; 
