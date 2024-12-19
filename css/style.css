@@ -5,7 +5,7 @@
     font-family: 'poppins', sans-serif;
   }
 body {
-  cursor: url('image/volant.png'), auto;
+  cursor: url('../image/volant.png'), auto;
 }
   :root {
     --primary-color: #44a0eb; 
